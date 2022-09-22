@@ -1,4 +1,4 @@
-# bank_app_dribble
+# bank_app_ui
 
 A new Flutter project.
 
